@@ -6,19 +6,19 @@
         {
             "label": "Loyer",
             "category": "Logement",
-            "amount": 850
+            "amount": 560
         },
 
         {
             "label": "Courses",
-            "category": "Alimentation",
-            "amount": 320
+            "category": "Charges",
+            "amount": 300
         },
 
         {
             "label": "Internet",
             "category": "Abonnements",
-            "amount": 30
+            "amount": 25
         },
 
         {
@@ -30,13 +30,13 @@
         {
             "label": "Essence",
             "category": "Transport",
-            "amount": 120
+            "amount": 85
         },
 
         {
-            "label": "Netflix",
-            "category": "Loisirs",
-            "amount": 14
+            "label": "Basic Fit",
+            "category": "Abonnements",
+            "amount": 25
         }
     ]
 }
