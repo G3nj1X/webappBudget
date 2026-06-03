@@ -85,6 +85,12 @@
             "label": "Epargne",
             "category": "Economies",
             "amount": 100
+        },
+
+        {
+            "label": "CE",
+            "category": "Loisirs",
+            "amount": 50
         }
 
     ]
