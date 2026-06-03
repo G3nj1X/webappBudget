@@ -4,9 +4,9 @@
     "expenses": [
 
         {
-            "label": "Loyer",
+            "label": "Loyer + Charges",
             "category": "Logement",
-            "amount": 560
+            "amount": 561
         },
 
         {
@@ -16,15 +16,33 @@
         },
 
         {
-            "label": "Internet",
-            "category": "Abonnements",
-            "amount": 25
+            "label": "Assurance Auto",
+            "category": "Charges",
+            "amount": 84.78
         },
 
         {
-            "label": "Électricité",
+            "label": "Assureance Habitation",
+            "category": "Charges",
+            "amount": 17.39
+        },
+
+        {
+            "label": "Electricité",
             "category": "Charges",
             "amount": 75
+        },
+
+        {
+            "label": "Mutuelle",
+            "category": "Charges",
+            "amount": 25.79
+        },
+
+        {
+            "label": "Frais bancaires",
+            "category": "Charges",
+            "amount": 2
         },
 
         {
@@ -34,9 +52,40 @@
         },
 
         {
-            "label": "Basic Fit",
-            "category": "Abonnements",
+            "label": "Téléphone",
+            "category": "Charges",
+            "amount": 10
+        },
+
+        {
+            "label": "Internet",
+            "category": "Charges",
             "amount": 25
+        },
+
+        {
+            "label": "Basic Fit",
+            "category": "Loisirs",
+            "amount": 25
+        },
+
+        {
+            "label": "Sorties",
+            "category": "Loisirs",
+            "amount": 100
+        },
+
+        {
+            "label": "Shopping",
+            "category": "Loisirs",
+            "amount": 50
+        },
+
+        {
+            "label": "Epargne",
+            "category": "Economies",
+            "amount": 100
         }
+
     ]
 }
