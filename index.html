@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Budget Mensuel</title>
+
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <header>
+        <h1>💰 Budget Mensuel</h1>
+        <p>Vue d'ensemble des dépenses du mois</p>
+    </header>
+
+    <section class="summary">
+
+        <div class="card">
+            <h2>Budget</h2>
+            <p id="budget">0 €</p>
+        </div>
+
+        <div class="card">
+            <h2>Dépenses</h2>
+            <p id="spent">0 €</p>
+        </div>
+
+        <div class="card">
+            <h2>Reste</h2>
+            <p id="remaining">0 €</p>
+        </div>
+
+    </section>
+
+    <section class="progress-section">
+
+        <div class="progress-bar">
+            <div id="progress"></div>
+        </div>
+
+        <p id="progressText"></p>
+
+    </section>
+
+    <section class="card">
+
+        <h2>Répartition par catégorie</h2>
+
+        <div id="categories"></div>
+
+    </section>
+
+    <section class="card">
+
+        <h2>Dépenses détaillées</h2>
+
+        <table>
+
+            <thead>
+                <tr>
+                    <th>Description</th>
+                    <th>Catégorie</th>
+                    <th>Montant</th>
+                </tr>
+            </thead>
+
+            <tbody id="expensesTable"></tbody>
+
+        </table>
+
+    </section>
+
+</div>
+
+<script src="./js/app.js"></script>
+
+</body>
+</html>

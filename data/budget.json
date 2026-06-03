@@ -1,0 +1,42 @@
+{
+    "budget": 1580,
+
+    "expenses": [
+
+        {
+            "label": "Loyer",
+            "category": "Logement",
+            "amount": 850
+        },
+
+        {
+            "label": "Courses",
+            "category": "Alimentation",
+            "amount": 320
+        },
+
+        {
+            "label": "Internet",
+            "category": "Abonnements",
+            "amount": 30
+        },
+
+        {
+            "label": "Électricité",
+            "category": "Charges",
+            "amount": 75
+        },
+
+        {
+            "label": "Essence",
+            "category": "Transport",
+            "amount": 120
+        },
+
+        {
+            "label": "Netflix",
+            "category": "Loisirs",
+            "amount": 14
+        }
+    ]
+}
